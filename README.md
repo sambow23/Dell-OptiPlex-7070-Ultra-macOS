@@ -1,4 +1,4 @@
-# Dell OptiPlex 7070 Ultra (WIP)
+# Dell OptiPlex 7070 Ultra
 <img src="https://i.imgur.com/yJN7Swf.png" width="500">
 
 Specs:
@@ -28,7 +28,3 @@ Specs:
 - Audio Output (no AppleALC yet)
 - iCloud Services
 - Bluetooth (no kext installed yet)
-
-## Tested/Working macOS Versions
-- macOS Big Sur
-- macOS Sonoma
