@@ -4,13 +4,18 @@
 Specs:
 ---
 
-- **CPU** : Intel® Core™ i5-8365U @ 4.10 GHz
-- **RAM** : 16GB dual-channel 2400MHz DDR4
-- **GPU** : Intel UHD Graphics 620 
-- **Storage** : WD_BLACK 1TB SN770M NVME SSD
-- **Screen** : 22" 1920x1080 (USB-C DP)
-- **WiFi** : Intel® Wi-Fi 6 AX201
-- **Soundcard** : Realtek ALC3204-CG
+| Hardware  | |
+| ------------- | ------------- |
+| CPU | Intel® Core™ i5-8365U |
+| RAM | 32GB 2400MHz DDR4 |
+| GPU | Intel UHD Graphics 620  |
+| Wi-Fi | Intel® Wi-Fi 6 AX200  |
+| Storage | KBG40ZNS512G 512GB NVMe SSD |
+| OS | macOS Sequoia 15.7.7 |
+| Screen | 32" 3840x2160 | 
+
+> [!CAUTION]
+> [You must set the EFI Variables before booting this EFI](https://github.com/sambow23/Dell-Precision-5540-macOS/discussions/2)
 
 ## Hardware compatibility
 
@@ -24,7 +29,7 @@ Specs:
 - USB-C Video
 - Ethernet
 
-#### Untested
-- Audio Output (no AppleALC yet)
+#### Not Working
+- Audio Output (no kext installed yet, not much reason to use built-in audio on this hw)
 - iCloud Services
 - Bluetooth (no kext installed yet)
