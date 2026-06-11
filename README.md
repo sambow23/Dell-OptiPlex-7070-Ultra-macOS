@@ -1,8 +1,8 @@
 # Dell OptiPlex 7070 Ultra
-<img src="https://i.imgur.com/yJN7Swf.png" width="500">
+|  |  |
+| :---: | :---: |
+| <img src="https://i.imgur.com/yJN7Swf.png" width="500"> | <img src="https://github.com/user-attachments/assets/bbe440ba-f79e-4fd0-869a-54397e513a28" width="500"> |
 
-Specs:
----
 
 | Hardware  | |
 | ------------- | ------------- |
@@ -15,7 +15,7 @@ Specs:
 | Screen | 32" 3840x2160 | 
 
 > [!CAUTION]
-> [You must set the EFI Variables before booting this EFI](https://github.com/sambow23/Dell-Precision-5540-macOS/discussions/2)
+> [You must set the EFI Variables before booting this EFI](https://github.com/sambow23/Dell-OptiPlex-7070-Ultra-macOS/discussions/2)
 
 ## Hardware compatibility
 
