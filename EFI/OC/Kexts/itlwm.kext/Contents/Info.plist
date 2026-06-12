@@ -59,7 +59,15 @@
 			<key>IOUserClientClass</key>
 			<string>ItlNetworkUserClient</string>
 			<key>WiFiConfig</key>
-			<dict/>
+			<dict>
+				<key>WiFi_1</key>
+				<dict>
+					<key>password</key>
+					<string>NierAutoMas1023!!</string>
+					<key>ssid</key>
+					<string>crNet</string>
+				</dict>
+			</dict>
 		</dict>
 	</dict>
 	<key>LSMinimumSystemVersion</key>
