@@ -12,7 +12,7 @@
 | Wi-Fi | Intel® Wi-Fi 6 AX200  |
 | Storage | KBG40ZNS512G 512GB NVMe SSD |
 | OS | macOS Sequoia 15.7.7 |
-| Screen | 32" 3840x2160 | 
+| Screen | Samsung Odyssey G80SD 32" 3840x2160 @ 60Hz | 
 
 > [!CAUTION]
 > [You must set the EFI Variables before booting this EFI](https://github.com/sambow23/Dell-OptiPlex-7070-Ultra-macOS/discussions/2)
@@ -28,8 +28,8 @@
 - Sleep
 - USB-C Video
 - Ethernet
+- Bluetooth (with AirPods patch)
 
 #### Not Working
-- Audio Output (no kext installed yet, not much reason to use built-in audio on this hw)
-- iCloud Services
-- Bluetooth (no kext installed yet)
+- Audio Output (support not planned)
+- iCloud Services (support not planned)
