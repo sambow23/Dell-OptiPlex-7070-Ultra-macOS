@@ -28,8 +28,8 @@
 - Sleep
 - USB-C Video
 - Ethernet
+- Bluetooth (with AirPods patch)
 
 #### Not Working
-- Audio Output (no kext installed yet, not much reason to use built-in audio on this hw)
-- iCloud Services
-- Bluetooth (no kext installed yet)
+- Audio Output (support not planned)
+- iCloud Services (support not planned)
